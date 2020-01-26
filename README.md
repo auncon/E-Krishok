@@ -1,1 +1,1 @@
-# ---
+An E-Commerce platform called "E-Krishok" which can be used to sell the products directly from farmer to consumer. Backend was built with php and mySQL. Website needs to be polished to deploy in the real server.Only basic things are done so far
